@@ -1,1 +1,1 @@
-# platinBot
+# PlatinClient
